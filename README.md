@@ -47,12 +47,6 @@ src="https://img.shields.io/github/followers/cengizeryigit?logo=github&style=for
 
 <a href="http://www.github.com/cengizeryigit"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cengizeryigit&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/cengizeryigit"><img src="https://activity-graph.herokuapp.com/graph?username=cengizeryigit&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/cengizeryigit" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cengizeryigit&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/cengizeryigit/express-swagger-producer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cengizeryigit&repo=express-swagger-producer&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/cangokceaslan/mongoose-truck" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cangokceaslan&repo=mongoose-truck&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 
