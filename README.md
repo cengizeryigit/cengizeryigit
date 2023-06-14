@@ -1,8 +1,6 @@
-Hi 👋 My name is Cengiz ERYİĞİT
-===============================
+# 🏄‍♂️ Cengiz ERYİĞİT
 
-Full Stack Developer
---------------------------------------
+**`Full Stack Developer`**
 
 As a full-stack developer, I have a strong background in both front-end and back-end development. I have experience working with various technologies such as HTML, CSS, JavaScript, C#, ASP.NET MVC, ASP.NET CORE, Node.js, and MSSQL. I am also well-versed in Agile development methodologies and have a passion for writing clean, scalable, and efficient code. I am a quick learner and have a strong attention to detail, allowing me to deliver high-quality projects on time and within budget. I am eager to continue expanding my skills and knowledge in the field of software development.
 
@@ -13,6 +11,7 @@ As a full-stack developer, I have a strong background in both front-end and back
 
 <a href="https://www.github.com/cengizeryigit" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/cengizeryigit?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+---
 
 ###  📋 Languages
 <p align="left" witdh="320" height="320">
