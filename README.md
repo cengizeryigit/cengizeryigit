@@ -1,7 +1,7 @@
 # 🏄‍♂️ Cengiz ERYİĞİT
 **`Full Stack Developer`**
 
-I have a strong background in both front-end and back-end development. I have experience working with various technologies such as HTML, CSS, JavaScript, C#, ASP.NET MVC, ASP.NET CORE, Node.js, and MSSQL. I am also well-versed in Agile development methodologies and have a passion for writing clean, scalable, and efficient code. I am a quick learner and have a strong attention to detail,  allowing me to deliver high-quality projects on time and within budget. I am eager to continue expanding my skills and knowledge in the field of software development.
+I have a strong background in both front-end and back-end development. I have experience working with various technologies such as HTML, CSS, JavaScript, C#, ASP.NET MVC, ASP.NET CORE, Node.js, and MSSQL. I am also well-versed in Agile development methodologies and have a passion for writing clean, scalable, and efficient code. I am a quick learner and have a strong attention to detail, allowing me to deliver high-quality projects on time and within budget. I am eager to continue expanding my skills and knowledge in the field of software development.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
