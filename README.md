@@ -60,26 +60,4 @@ I have a strong background in both front-end and back-end development. I have ex
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-###  📑 My GitHub Stats
-<table border="0" align="center">
-<tr border="0"> 
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=cengizeryigit&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
-<br>
-</br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cengizeryigit&amp;theme=radical&amp;hide_border=false" alt="">
-</td>
-<td width="50%" align="center">
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=cengizeryigit&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
-</td>
-</tr>
-</table>
-    
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<br>
-  
- ### 📊 Contribution Stats
-<img alt="Cengiz's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=cengizeryigit&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
- 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
